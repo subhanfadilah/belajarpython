@@ -7,6 +7,6 @@ print "[1] Chat Admin"
 pilih = raw_input('[?] Masukkan Pilihan anda : ')
 if pilih == '1':
 	os.system('clear')
-	os.system('termux-open-url https://api.whatsapp.com/send?phone=+6285225218341&text=sedang belajar python')
+	os.system('termux-open-url https://api.whatsapp.com/send?phone=+6285225218341&text=sedang+belajar+python')
 else:
 	print "Pilihan Anda Error gans"
